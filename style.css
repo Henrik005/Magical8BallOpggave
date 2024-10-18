@@ -1,0 +1,15 @@
+.ball{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    border: solid 110px black;
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+    font-size: 120px;
+    user-select: none;
+}
+
